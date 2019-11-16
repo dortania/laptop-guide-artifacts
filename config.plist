@@ -321,10 +321,6 @@
 		<false/>
 		<key>KernelPm</key>
 		<false/>
-		<key>ForceKextsToLoad</key>
-		<array>
-			<string>\System\Library\Extensions\IOGraphicsFamily.kext</string>
-		</array>
 		<key>KernelToPatch</key>
 		<array>
 			<dict>
