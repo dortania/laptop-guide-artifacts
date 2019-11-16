@@ -11,7 +11,7 @@
 			<key>Fixes</key>
 			<dict>
 				<key>FixHPET</key>
-				<false/>
+				<true/>
 				<key>FixIPIC</key>
 				<true/>
 				<key>FixMutex</key>
@@ -138,18 +138,6 @@
 				<string>DMAR</string>
 				<key>TableId</key>
 				<string>Cpu0Ist</string>
-			</dict>
-			<dict>
-				<key>Signature</key>
-				<string>SSDT</string>
-				<key>TableId</key>
-				<string>CpuSsdt</string>
-			</dict>
-			<dict>
-				<key>Signature</key>
-				<string>LPIT</string>
-				<key>TableId</key>
-				<string>KBL-ULT</string>
 			</dict>
 		</array>
 		<key>SSDT</key>
