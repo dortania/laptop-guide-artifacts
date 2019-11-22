@@ -378,15 +378,15 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BoardSerialNumber</key>
-		<string>BSN-XXXXXXXXXXXX</string>
+		<string>XXXXXXXXXXXX</string>
 		<key>Mobile</key>
 		<true/>
 		<key>ProductName</key>
 		<string>ProductName that matches your CPU</string>
 		<key>SerialNumber</key>
-		<string>SN-XXXXXXXXXXXX</string>
+		<string>XXXXXXXXXXXX</string>
 		<key>SmUUID</key>
-		<string>SID-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX</string>
+		<string>XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX</string>
 		<key>Trust</key>
 		<false/>
 	</dict>
