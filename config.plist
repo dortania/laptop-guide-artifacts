@@ -193,6 +193,8 @@
 		<dict>
 			<key>ResetHDA</key>
 			<true/>
+			<key>Inject</key>
+			<string>No</string>
 		</dict>
 		<key>Properties</key>
 		<dict>
@@ -203,7 +205,7 @@
 				<key>device_type</key>
 				<string>Audio device</string>
 				<key>layout-id</key>
-				<data>FQAAAA==</data>
+				<integer>1</integer>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -224,8 +226,6 @@
 				<key>#framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
 			</dict>
-			<key>layout-id</key>
-			<integer>1</integer>
 		</dict>
 		<key>USB</key>
 		<dict>
