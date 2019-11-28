@@ -162,7 +162,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>shikigva=1 alcid=1</string>
+		<string>shikigva=1</string>
 		<key>CustomLogo</key>
 		<string>Theme</string>
 		<key>Debug</key>
@@ -224,6 +224,8 @@
 				<key>#framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
 			</dict>
+			<key>layout-id</key>
+			<integer>1</integer>
 		</dict>
 		<key>USB</key>
 		<dict>
