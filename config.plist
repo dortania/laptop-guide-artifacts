@@ -14,12 +14,10 @@
 				<true/>
 				<key>FixIPIC</key>
 				<true/>
-				<key>FixMutex</key>
-				<true/>
 				<key>FixRTC</key>
 				<true/>
 				<key>FixShutdown</key>
-				<true/>
+				<false/>
 				<key>FixTMR</key>
 				<true/>
 				<key>FixUSB</key>
